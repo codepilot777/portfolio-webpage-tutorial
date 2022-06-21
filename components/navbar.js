@@ -63,7 +63,7 @@ const Navbar = props => {
                     </Heading>
                 </Flex>
                 <Stack
-                    direction={{ base: 'column', md: 'rpw' }}
+                    direction={{ base: 'column', md: 'row' }}
                     display={{ base: 'none', md: 'flex' }}
                     width={{ base: 'full', md: 'auto' }}
                     alignItems="center"
